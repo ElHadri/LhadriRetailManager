@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LhadriDataManager", "Lhadri
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "LRMData", "LRMData\LRMData.sqlproj", "{B8901CFF-6E5E-4198-AA45-2B20B5B997CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRMUserInterfaceWPF", "LRMUserInterfaceWPF\LRMUserInterfaceWPF.csproj", "{C6D0DDB5-159A-40ED-A83D-2751B6C5A501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B8901CFF-6E5E-4198-AA45-2B20B5B997CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8901CFF-6E5E-4198-AA45-2B20B5B997CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B8901CFF-6E5E-4198-AA45-2B20B5B997CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C6D0DDB5-159A-40ED-A83D-2751B6C5A501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D0DDB5-159A-40ED-A83D-2751B6C5A501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D0DDB5-159A-40ED-A83D-2751B6C5A501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D0DDB5-159A-40ED-A83D-2751B6C5A501}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
